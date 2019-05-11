@@ -26,7 +26,7 @@ Zaprojektowano sześć przypadków, wg specyfikacji z tej tabelki:
 | 03. | Milena Kukiz | 02-07-1950 (69 lat) | ✔ | ✔
 | 04. | Zbigniew Cien | 10-09-2008 (11 lat) | ✔ | ✖
 | 05. | Marzena Tudrej | 20-02-2003 (16 lat) | ✔ | ✖
-| 06. | Kamil rafalski | 28-06-1995 (23 lat) | ✖ | ✖
+| 06. | Kamil Rafalski | 28-06-1995 (23 lat) | ✖ | ✖
 
 ### Użyte technologie
  - Java
