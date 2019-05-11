@@ -23,7 +23,7 @@ Zaprojektowano sześć przypadków, wg specyfikacji z tej tabelki:
 | ------ | ------ | ------ | ------ |  ------ |
 | 01. | Andrzej Tobor | 03-03-1999 (20 lat) | ✖ | ✖
 | 02. | Dawid Szczepański | 17-08-2007 (13 lat) | ✔ | ✖
-| 03. | Milena Kukiz | 02-07-1950 (69 lat) | ✔ | ✔
+| 03. | Milena Kukiz | 02-07-1950 (69 lat) | ✖ | ✔
 | 04. | Zbigniew Cien | 10-09-2008 (11 lat) | ✔ | ✖
 | 05. | Marzena Tudrej | 20-02-2003 (16 lat) | ✔ | ✖
 | 06. | Kamil Rafalski | 28-06-1995 (23 lat) | ✖ | ✖
