@@ -1,16 +1,15 @@
 # Automatyzacja testowania z Selenium Web Driver
 Automatyzacja procesu testowania w metodykach zwinnych, 18/19L
 
-Projekt na przedmiot Automatyzacja procesu testowania w metodykach zwinnych. 
-Zadanie polegało na implementacji testów formularza korzystając z dowolonego języka programowania (w tym przypadku Java).
-
-W ścieżce ```main/java/com/mycompany/selenium``` znajduje się przykładowe uzupełnianie formularza wg danych z tabelki którą wstawiono poniżej.
-
-W ścieżce ```test/java``` zgodnie z treścią zadania *zaprojektowano* testy jednostkowe.
-
-Zaprojektowano sześć przypadków, wg specyfikacji z tej tabelki:
+### Podstawowe informacje
+- Projekt na przedmiot Automatyzacja procesu testowania w metodykach zwinnych. 
+- Zadanie polegało na implementacji testów formularza korzystając z dowolonego języka programowania (w tym przypadku Java).
+- W ścieżce `main/java/com/mycompany/selenium` znajduje się przykładowe uzupełnianie formularza wg danych z tabelki którą wstawiono poniżej.
+- W ścieżce `test/java` zgodnie z treścią zadania **zaprojektowano testy jednostkowe**.
 
 ### Przypadki testowe
+
+Zaprojektowano sześć przypadków, wg specyfikacji z tej tabelki:
 
 | L.p | Cel | Dane testowe | Oczekiwany wynik |
 | ------ | ------ | ------ | ------ |
@@ -20,7 +19,6 @@ Zaprojektowano sześć przypadków, wg specyfikacji z tej tabelki:
 | 04. | Zweryfikowanie grupy „Młodzik”. | Dokument legitymujący daną osobę. | Osoba jest w wieku dziesięciu do trzynastu lat, została automatycznie przydzielona do grupy „Młodzik”. |
 | 05. | Zweryfikowanie grupy „Junior”. | Dokument legitymujący daną osobę. | Osoba jest w wieku trzynastu lat do osiemnastu, została automatycznie przydzielona do grupy „Junior”. |
 | 06. | Zweryfikowanie grupy „Dorośli”. | Dokument legitymujący daną osobę. | Osoba pełnoletnia została automatycznie przydzielona do grupy „Dorośli”. |
-
 
 ### Dane testowe użyte w kodzie java
 
@@ -32,6 +30,10 @@ Zaprojektowano sześć przypadków, wg specyfikacji z tej tabelki:
 | 04. | Zbigniew Cien | 10-09-2008 (11 lat) | ✔ | ✖
 | 05. | Marzena Tudrej | 20-02-2003 (16 lat) | ✔ | ✖
 | 06. | Kamil Rafalski | 28-06-1995 (23 lat) | ✖ | ✖
+
+### NetBeans screen (dowód, że testy przeszły)
+
+![Selenium](https://i.imgur.com/nqZP7Zw.png)
 
 ### Użyte technologie
  - Java
