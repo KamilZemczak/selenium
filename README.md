@@ -2,7 +2,12 @@
 Automatyzacja procesu testowania w metodykach zwinnych, 18/19L
 
 Projekt na przedmiot Automatyzacja procesu testowania w metodykach zwinnych. 
-Zadanie polegało na implementacji testów formularza korzystając z dowolonego języka programowania (w tym przypadku Java)
+Zadanie polegało na implementacji testów formularza korzystając z dowolonego języka programowania (w tym przypadku Java).
+
+W ścieżce ```main/java/com/mycompany/selenium``` znajduje się przykładowe uzupełnianie formularza wg danych z tabelki którą wstawiono poniżej.
+
+W ścieżce ```test/java``` zgodnie z treścią zadania *zaprojektowano* testy jednostkowe.
+
 Zaprojektowano sześć przypadków, wg specyfikacji z tej tabelki:
 
 ### Przypadki testowe
